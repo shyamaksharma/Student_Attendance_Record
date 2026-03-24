@@ -13,9 +13,7 @@ It can:
 
 ## What do you need?
 
-You do NOT need any coding knowledge.
-
-Just make sure:
+You just need to follow the steps given below and just make sure:
 - Python is installed on your computer
 
 ---
