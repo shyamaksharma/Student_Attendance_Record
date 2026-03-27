@@ -1,6 +1,6 @@
-#Student Attendance Record - Project Report
+# Student Attendance Record - Project Report
 
-##1.Introduction:
+## 1.Introduction:
 
 Attendance is an important in most colleges and schools. For example in VIT Bhopal, there is a minimum requirtment to have at least 75% attendance in your classes otherwise you will be debarred from writing the exams for that subject.
 
@@ -8,7 +8,7 @@ This project aims to solve that issue by making a simple system that calculates 
 
 ---
 
-##2. Problem Statement:
+## 2. Problem Statement:
 
 Many students need to take holidays or leaves due to a family emergency, important family function, health issues or just need a break from the stressful college life and they don't know if missing a few classes will affect their eligibility to sit in their classes exams
 
